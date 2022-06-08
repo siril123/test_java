@@ -41,7 +41,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/umashankar2/Test.Demo</url>
+      <url>https://maven.pkg.github.com/siril123/test_java</url>
     </repository>
   </distributionManagement>
 </project>
